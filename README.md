@@ -8,7 +8,7 @@ A Digital Product Management API for managing Invitation Cards, built with Djang
 - **REST API**: CBVs/ViewSets for CRUD operations.
 - **Image Upload**: Support for multiple image uploads with S3 integration.
 - **Filtering**: Filter cards by category, tag, and title.
-- **Documentation**: Swagger UI and Redoc via `drf-spectacular`.
+- **Documentation**: Swagger UI 
 - **JWT Authentication**: Secure API access.
 - **Admin Panel**: customized admin interface with inline image management.
 
