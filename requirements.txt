@@ -1,0 +1,8 @@
+Django>=4.0
+djangorestframework
+django-filter
+drf-spectacular
+boto3
+python-decouple
+Pillow
+djangorestframework-simplejwt
